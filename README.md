@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rahil Tech Hacks</title>
-    <body>
     <style>
-        body {
+        <body>
+        {
             background-image: url('C:\Users\Muslim\Desktop/rahiltech.jpg');
             background-size: cover; /* Makes sure the image covers the whole background */
             background-position: center; /* Centers the image */
