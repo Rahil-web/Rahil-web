@@ -4,11 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rahil Tech Hacks</title>
-</head>
-<body>
     <style>
         body {
-            background-image: url('C:\Users\Muslim\Desktop/rahiltech.jpg');
+            background-image: url('rahiltech.jpg');
             background-size: cover; /* Makes sure the image covers the whole background */
             background-position: center; /* Centers the image */
             background-repeat: no-repeat; /* Prevents the image from repeating */
@@ -43,6 +41,7 @@
             border: none;
         }
     </style>
+</head>
 <body>
     <header>
         <h1>Welcome to Rahil Tech Hacks</h1>
@@ -70,11 +69,11 @@
         </section>
         <section id="videos">
             <h2>Latest Videos</h2>
-            <iframe width="560" height="315" src="https://youtu.be/evAD5LOVlL8?si=6yApN22B-uAICUME" frameborder="0" allowfullscreen></iframe>
+            <iframe src="https://www.youtube.com/embed/your-video-id" allowfullscreen></iframe>
         </section>
         <section id="contact">
             <h2>Contact</h2>
-            <p>Email: acejoker967@gmail.com</p>
+            <p>Email: contact@rahiltechhacks.com</p>
         </section>
         <section id="about">
             <h2>About</h2>
