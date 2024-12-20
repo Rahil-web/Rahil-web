@@ -8,7 +8,7 @@
 <body>
     <style>
         body {
-            background-image: url('path/to/your/background-image.jpg');
+            background-image: url('rahiltechhacks.jpg');
             background-size: cover; /* Makes sure the image covers the whole background */
             background-position: center; /* Centers the image */
             background-repeat: no-repeat; /* Prevents the image from repeating */
