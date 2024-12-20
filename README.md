@@ -6,7 +6,7 @@
     <title>Rahil Tech Hacks</title>
     <style>
         body {
-            background-image: url('rahiltech.jpg');
+            background-image: url('C:\Users\Muslim\Desktoprahiltech.jpg');
             background-size: cover; /* Makes sure the image covers the whole background */
             background-position: center; /* Centers the image */
             background-repeat: no-repeat; /* Prevents the image from repeating */
